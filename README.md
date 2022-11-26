@@ -2,8 +2,7 @@
 - 👀 I’m interested in computer vision
 - 🌱 I’m currently learning python and torch
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email:1748614487@qq.com 
--                              a18915078313@163.com
+- 📫 How to reach me by email:1748614487@qq.com or a18915078313@163.com
 
 <!---
 titan-183/titan-183 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
