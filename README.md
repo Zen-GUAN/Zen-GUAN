@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @titan-183
+- 👋 Hi, I’m @GUAN ZHENG
 - 👀 I’m interested in medical image
 - 🌱 I’m currently learning python and pytorch
 - 💞️ I’m looking to chances for PhD student
